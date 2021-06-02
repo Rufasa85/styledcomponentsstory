@@ -1,5 +1,5 @@
 {
-  "name": "styledcomponentsstory",
+  "name": "@joe.rehfuss/styledcomponentsstory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -61,7 +61,8 @@
     "@storybook/addon-links": "^6.2.9",
     "@storybook/node-logger": "^6.2.9",
     "@storybook/preset-create-react-app": "^3.1.7",
-    "@storybook/react": "^6.2.9"
+    "@storybook/react": "^6.2.9",
+    "auto": "^10.29.2"
   },
   "babel": {
     "presets": [
@@ -75,6 +76,20 @@
   },
   "files": [
     "dist"
-  ]
-  
+  ],
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rufasa85/styledcomponentsstory.git"
+  },
+  "keywords": [
+    "styled"
+  ],
+  "author": "Joe Rehfuss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rufasa85/styledcomponentsstory/issues"
+  },
+  "homepage": "https://github.com/Rufasa85/styledcomponentsstory#readme"
 }
